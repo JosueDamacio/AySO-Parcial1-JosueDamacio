@@ -1,0 +1,3 @@
+Mi IP Publica es: 186.57.131.167
+Mi Usuario es: vagrant
+el hash Usuario es: $y$j9T$ybS/DGCexe7/1cIEe.g730$IqgsqwHwbYLCZJ1awz.2j7sRGNJNyzp7EEAYZCWGjs0
